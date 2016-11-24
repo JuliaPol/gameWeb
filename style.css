@@ -1,0 +1,45 @@
+#canvasId {
+    border:2px solid black;
+    background-image:url(fon.jpg);
+    margin-left: 25px;;
+}
+#result {
+    position: absolute;
+    top: 200px;
+    width: 400px;
+    height: 300px;
+    margin-left: 500px;
+}
+#hBody {
+    position: absolute;
+    font-size: 40px;
+    color: darkblue;
+}
+#aResult {
+    position: relative;
+    top: 100px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: darkblue;
+    background-color: rgba(255, 255, 255, 0.61);
+    border-radius: 30px;
+    left: 20px;
+}
+#aResult : active {
+    color: darkblue;
+}
+#coins {
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    display: inline-flex;
+    height: 70px;
+}
+#pCoins {
+    position: relative;
+    font-size: 30px;
+    color: white;
+    top: -10px;
+}
+}
